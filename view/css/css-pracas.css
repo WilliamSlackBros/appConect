@@ -1,0 +1,56 @@
+.fndTable{
+  background-color: #dee2e68a !important;
+  padding: 10px 10px 0px 10px;
+
+}
+#tbPracas>tbody>tr>td:first-child {
+    color:#007791;
+}
+#tbPracas>tbody {
+    background-color: white;
+    border-left: 6px solid #b7b7b7;
+}
+.fas{
+  color: white !important;
+}
+#btnPracaAdd{
+  background-color: #d6029e;
+  height: 2em;
+  width: 2em;
+  padding: 4px;
+}
+
+.Titulo-a{
+  color: #004a5a;
+
+}
+.ln-princiapal{
+  background-color: #bdc9dae8;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-top: 100px ;
+}
+.ln-secundaria{
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+.btnAcoes{
+  border-radius: 50%;
+}
+.txtSiglas{
+  width: 100px !important;
+  margin-left:  10px;
+  margin-right:   16px;
+}
+
+#MensagensPracas{
+  margin-top: 10px;
+  width: 40%  !important;
+  height: auto !important;
+  position: absolute !important;
+  margin-left: 25% !important;
+  margin-right: auto !important;
+}
+.modal-body input{
+    text-transform: uppercase !important;
+}
